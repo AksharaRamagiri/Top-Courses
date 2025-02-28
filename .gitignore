@@ -4,8 +4,7 @@
 # testing
 /coverage
 
-# production
-/build
+
 
 # log files
 npm-debug.log*
